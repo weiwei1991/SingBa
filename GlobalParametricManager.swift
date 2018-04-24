@@ -9,6 +9,7 @@
 import UIKit
 import Foundation
 
+// 还可以
 public let SCRCREEN_WIDTH = UIScreen.mainScreen().bounds.width
 public let SCRCREEN_HEIGH = UIScreen.mainScreen().bounds.height
 
